@@ -1,0 +1,10 @@
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\bin\Debug\FrankieGOL.exe.config
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\bin\Debug\FrankieGOL.exe
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\bin\Debug\FrankieGOL.pdb
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.csprojAssemblyReference.cache
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.frmGameofLife.resources
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.Properties.Resources.resources
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.csproj.GenerateResource.cache
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.csproj.CoreCompileInputs.cache
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.exe
+C:\Users\fg221\source\repos\FrankieGOL\FrankieGOL\obj\Debug\FrankieGOL.pdb
